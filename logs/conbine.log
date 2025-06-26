@@ -1,5 +1,26 @@
 25-06-2025 21:35:10 [[32minfo[39m]: [32m IP.SERVICES.JS : Data received successfully.[39m
-26-06-2025 03:08:17 [[32minfo[39m]: [32m IP.SERVICES.JS : Fetching location for: 134.201.250.155.[39m
-26-06-2025 03:08:17 [[32minfo[39m]: [32m IP.DAL.JS : Data received successfully.[39m
-26-06-2025 03:13:45 [[32minfo[39m]: [32m IP.SERVICES.JS : Fetching location for: 134.201.250.155.[39m
-26-06-2025 03:13:45 [[32minfo[39m]: [32m IP.DAL.JS : Data received successfully.[39m
+26-06-2025 15:08:17 [[32minfo[39m]: [32m IP.SERVICES.JS : Fetching location for: 134.201.250.155.[39m
+26-06-2025 15:08:17 [[32minfo[39m]: [32m IP.DAL.JS : Data received successfully.[39m
+26-06-2025 15:13:45 [[32minfo[39m]: [32m IP.SERVICES.JS : Fetching location for: 134.201.250.155.[39m
+26-06-2025 15:13:45 [[32minfo[39m]: [32m IP.DAL.JS : Data received successfully.[39m
+26-06-2025 15:59:55 [[32minfo[39m]: [32m IP.SERVICES.JS : Fetching ip adress.[39m
+26-06-2025 15:59:55 [[32minfo[39m]: [32m IP.DAL.JS : Data for ip adress received successfully.[39m
+26-06-2025 16:02:57 [[32minfo[39m]: [32m IP.SERVICES.JS : Fetching ip adress.[39m
+26-06-2025 16:02:57 [[32minfo[39m]: [32m IP.DAL.JS : Data for ip adress received successfully.[39m
+26-06-2025 16:56:13 [[32minfo[39m]: [32m IP.SERVICES.JS : Fetching location for: 155.52.155.246.[39m
+26-06-2025 16:56:13 [[32minfo[39m]: [32m IP.DAL.JS : Data for ip location received successfully.[39m
+26-06-2025 16:57:49 [[32minfo[39m]: [32m IP.SERVICES.JS : Fetching location for: 20.187.17.230.[39m
+26-06-2025 16:57:49 [[32minfo[39m]: [32m IP.DAL.JS : Data for ip location received successfully.[39m
+26-06-2025 18:04:51 [[32minfo[39m]: [32m RANDOMIP.SERVICES.JS : Fetching random ip adress.[39m
+26-06-2025 18:04:51 [[32minfo[39m]: [32m IP.DAL.JS : Data for random ip adress received successfully.[39m
+26-06-2025 18:04:51 [[31merror[39m]: [31m IP.DAL.JS : TypeError: Failed to parse URL from 147.115.43.62[39m
+26-06-2025 18:04:51 [[31merror[39m]: [31m RANDOMIP.SERVICES.JS : TypeError: Failed to parse URL from 147.115.43.62[39m
+26-06-2025 18:05:57 [[32minfo[39m]: [32m RANDOMIP.SERVICES.JS : Fetching random ip adress.[39m
+26-06-2025 18:05:57 [[32minfo[39m]: [32m IP.DAL.JS : Data for random ip adress received successfully.[39m
+26-06-2025 18:05:57 [[31merror[39m]: [31m RANDOMIP.SERVICES.JS : TypeError: randomIpData.json is not a function[39m
+26-06-2025 18:08:42 [[32minfo[39m]: [32m RANDOMIP.SERVICES.JS : Fetching random ip adress.[39m
+26-06-2025 18:08:42 [[32minfo[39m]: [32m IP.DAL.JS : Data for random ip adress received successfully.[39m
+26-06-2025 18:09:06 [[32minfo[39m]: [32m RANDOMIP.SERVICES.JS : Fetching random ip adress.[39m
+26-06-2025 18:09:06 [[32minfo[39m]: [32m IP.DAL.JS : Data for random ip adress received successfully.[39m
+26-06-2025 18:26:41 [[32minfo[39m]: [32m IP.SERVICES.JS : Fetching ip adress.[39m
+26-06-2025 18:26:41 [[32minfo[39m]: [32m IP.DAL.JS : Data for ip adress received successfully.[39m

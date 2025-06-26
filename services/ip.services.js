@@ -18,13 +18,28 @@ export const ipService = {
                     continent_name: result.continent_name,
                     country_name: result.country_name,
                     city: result.city,
-                    latitude: result.latitude, 
-                    longitude:result.longitude
+                    latitude: result.latitude,
+                    longitude: result.longitude
                 }
             };
         } catch (error) {
             logger.error(error)
             throw error
         };
-    }
+    },
+    getMyIp: async () => {
+        try {
+            logger.info(`Fetching ip adress.`);
+            const myIpData = await ipDal.getMyIp();
+            const result = await myIpData.json();
+
+            return {
+                message: `your ip adress fetched successfuly`,
+                yourIP: result.ip,
+            };
+        } catch (error) {
+            logger.error(error)
+            throw error
+        };
+    },
 };
