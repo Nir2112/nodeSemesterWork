@@ -7,5 +7,4 @@ const router = Router();
 router.get('/myip',getMyIp)
 router.get('/:ip',getIpLocation)
 
-
 export default router

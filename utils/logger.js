@@ -20,7 +20,6 @@ const cLevels = {
 
 winston.addColors(cLevels.colors);
 
-
 const createLogger = ()=> {
     return winston.createLogger({
         levels:cLevels.levels,
